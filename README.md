@@ -12,6 +12,10 @@ _class:
  - invert
 -->
 
+# Slide 1
+
+$y = x^2 + z$
+
 # Marp Action for GitHub
 
 Presentations to Webpages: Instantly!
